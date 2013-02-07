@@ -1,0 +1,10 @@
+{
+  "name": "shoulda",
+  "version": "0.0.1",
+  "description": "Adds some junk to should",
+  "dependencies": {
+    "should": "~1.2.1"
+  },
+  "main": "shoulda.js",
+  "readme": "# shoulda\n\nWorks for me. You'd probably notice any errors quickly."
+}
